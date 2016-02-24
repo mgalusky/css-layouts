@@ -1,7 +1,7 @@
 body {
   margin: 0;
 }
-#header {
+header {
   overflow: auto;
   padding: 8px;
   background-color: #FFFFEA;
@@ -11,12 +11,12 @@ body {
 #logo {
   float: left;
   padding: 8px;
-  width: 19%;
+  width: 18%;
   background-color: #00CECB;
   color: #fff;
 }
 
-#nav {
+nav {
   float: right;
   padding: 8px;
   width: 78%;
@@ -24,7 +24,7 @@ body {
   color: #fff;
 }
 
-#sidebar {
+aside {
   float: left;
   padding: 8px;
   width: 18.7%;
@@ -32,19 +32,18 @@ body {
   color: #fff;
 }
 
-#main {
+main {
   float: right;
   padding: 8px;
-  width: 78.7%;
+  width: 77.5%;
   background-color: #789ABB;
   color: #fff;
   overflow: auto;
 }
 
-#footer {
+footer {
   clear: both;
   padding: 8px;
   background-color: #D8D8D8;
   color: #fff;
-
 }

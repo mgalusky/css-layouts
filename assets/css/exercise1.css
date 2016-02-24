@@ -1,7 +1,7 @@
 body{
   margin:0;
 }
-#header {
+header {
   width: 100%;
   background-color: #3626A7;
   overflow: auto;
@@ -9,23 +9,23 @@ body{
   color: #fff;
 }
 
-#sidebar {
+aside {
   float: left;
-  width: 18.7%;
+  width: 18.45%;
   background-color: #FF331F;
   padding: 8px;
   color: #fff;
 }
 
-#content {
-  float: right;
-  width: 78.7%;
+main {
+  float: left;
+  width: 78%;
   background-color: #657ED4;
   padding: 8px;
   color: #fff;
 }
 
-#footer {
+footer {
   clear: both;
   background-color: #0D0106;
   padding: 8px;
